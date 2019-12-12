@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "552976380776",
+    "firebase_url": "https://mata-ikan-d4ab5.firebaseio.com",
+    "project_id": "mata-ikan-d4ab5",
+    "storage_bucket": "mata-ikan-d4ab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552976380776:android:ff155ffc3498d97e3cdcdd",
+        "android_client_info": {
+          "package_name": "com.example.mataikan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552976380776-kq7idrbbf24frb65f00fh7fp90mdf1l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mataikan",
+            "certificate_hash": "6316b8f2d375beb384232cbdbae8c6cc4b0d901d"
+          }
+        },
+        {
+          "client_id": "552976380776-8a8m4i21m7vv1e8d87k27en6g1bfd7u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHu0p_uFeeKWw-I1L7NrYpMM3ZvfGlNvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552976380776-8a8m4i21m7vv1e8d87k27en6g1bfd7u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
